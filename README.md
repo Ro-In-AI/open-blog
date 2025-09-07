@@ -1,6 +1,6 @@
 # 项目名称：Open-Blog.net
 
-Slogan： Hello, Open-Blog.net! 做一个真正开放的世界级的博客平台。
+Slogan： Hello, Open-Blog.net! 做一个真正开放的世界级的内容创造与共享平台！
 
 ## 一、 核心愿景 (Core Vision)
 
